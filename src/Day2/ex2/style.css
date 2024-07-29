@@ -1,0 +1,44 @@
+/* CheckboxStyles.css */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: rgb(248, 163, 237);
+    border-radius: 10PX;
+  }
+  
+  .checkbox-input {
+    margin-right: 10px;
+    color: blueviolet;
+  }
+  
+  .checkbox-label {
+    color: #333; /* Default label color */
+  }
+  
+  #mainDiv{
+    background-color: #8780f348;
+    padding: 100px;
+    border-radius: 10px;
+  }
+
+
+  .blue-background {
+    background-color: rgba(0, 0, 255, 0.493);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .red-background {
+    background-color: rgba(255, 0, 0, 0.397);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #f094dc36;
+    width: 300px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
